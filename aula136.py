@@ -25,8 +25,8 @@ class Conection:
         return connection
     
     @staticmethod
-    def soma(x, y):
-        return x + y
+    def log(msg):
+        print('LOG', msg)
 
 
 c1 = Conection.create_with_auth('Luiz', '1234')
