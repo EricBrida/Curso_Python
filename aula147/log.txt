@@ -1,0 +1,18 @@
+Sucess: Deu Certo!! (LogFileMixin)
+
+Sucess: Deu Certo!! (LogFileMixin)
+
+Error: Deu Errado :( (LogFileMixin)
+
+Sucess: Deu Certo!! (LogFileMixin)
+
+Error: Deu Errado :( (LogFileMixin)
+
+Sucess: Deu Certo!! (LogFileMixin)
+
+Error: Deu Errado :( (LogFileMixin)
+
+Sucess: Deu Certo!! (LogFileMixin)
+
+Error: Deu Errado :( (LogFileMixin)
+
